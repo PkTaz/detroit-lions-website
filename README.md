@@ -1,4 +1,4 @@
-# Detroit Lions Official Website Clone
+# Detroit Lions Official Website Redesign
 
 <p align="center">
   <img src="public/lions.png" alt="Detroit Lions Logo" width="400"/>
