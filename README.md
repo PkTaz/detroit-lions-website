@@ -1,7 +1,7 @@
 # Detroit Lions Official Website Clone
 
 <p align="center">
-  <img src="https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/lions/o0sui6nrolhqeqte9dxh" alt="Detroit Lions Logo" width="400"/>
+  <img src="public/lions.png" alt="Detroit Lions Logo" width="400"/>
 </p>
 
 ## 🏈 Project Overview
