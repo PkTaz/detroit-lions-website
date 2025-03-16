@@ -45,6 +45,7 @@ This project is a modern, responsive clone of the Detroit Lions official website
 - **Routing**: React Router
 - **Icons**: React Icons
 - **Code Quality**: ESLint, TypeScript
+- **Deployment**: Netlify
 
 ## 🔧 Getting Started
 
@@ -75,6 +76,36 @@ yarn start
 ```
 
 4. Open your browser and visit `http://localhost:3000`
+
+## 🚀 Deployment to Netlify
+
+This project is configured for easy deployment on Netlify. Follow these steps:
+
+1. Create a Netlify account at [netlify.com](https://www.netlify.com/) if you don't have one
+
+2. Deploy using the Netlify CLI:
+   ```bash
+   # Install Netlify CLI
+   npm install -g netlify-cli
+   
+   # Login to Netlify
+   netlify login
+   
+   # Deploy the site
+   netlify deploy --prod
+   ```
+
+3. Or deploy directly from GitHub:
+   - Push your code to GitHub
+   - Log in to Netlify
+   - Click "New site from Git"
+   - Select your repository
+   - Configure build settings:
+     - Build command: `npm run build`
+     - Publish directory: `build`
+   - Click "Deploy site"
+
+4. Your site will be live at a Netlify URL, which you can customize in the Netlify dashboard
 
 ## 📁 Project Structure
 
