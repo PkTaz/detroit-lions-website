@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Large video file (exclude from GitHub but keep in project)
+public/lions-video.mp4

@@ -8,7 +8,7 @@
 
 This project is a modern, responsive clone of the Detroit Lions official website built with React, TypeScript, and Tailwind CSS. It showcases a comprehensive fan experience with various features tailored for Lions fans.
 
-[View Live Demo](#) | [GitHub Repository](https://github.com/PkTaz/detroit-lions-website)
+**[View Live Demo on Netlify](https://detroit-lions-redesign.netlify.app/)** | [GitHub Repository](https://github.com/PkTaz/detroit-lions-website)
 
 ![Website Preview](https://static.clubs.nfl.com/image/upload/t_new_photo_album/f_auto/lions/e9uxwvx4ergpvtzaiash.jpg)
 
@@ -45,7 +45,6 @@ This project is a modern, responsive clone of the Detroit Lions official website
 - **Routing**: React Router
 - **Icons**: React Icons
 - **Code Quality**: ESLint, TypeScript
-- **Deployment**: Netlify
 
 ## 🔧 Getting Started
 
@@ -76,36 +75,6 @@ yarn start
 ```
 
 4. Open your browser and visit `http://localhost:3000`
-
-## 🚀 Deployment to Netlify
-
-This project is configured for easy deployment on Netlify. Follow these steps:
-
-1. Create a Netlify account at [netlify.com](https://www.netlify.com/) if you don't have one
-
-2. Deploy using the Netlify CLI:
-   ```bash
-   # Install Netlify CLI
-   npm install -g netlify-cli
-   
-   # Login to Netlify
-   netlify login
-   
-   # Deploy the site
-   netlify deploy --prod
-   ```
-
-3. Or deploy directly from GitHub:
-   - Push your code to GitHub
-   - Log in to Netlify
-   - Click "New site from Git"
-   - Select your repository
-   - Configure build settings:
-     - Build command: `npm run build`
-     - Publish directory: `build`
-   - Click "Deploy site"
-
-4. Your site will be live at a Netlify URL, which you can customize in the Netlify dashboard
 
 ## 📁 Project Structure
 
