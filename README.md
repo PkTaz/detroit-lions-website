@@ -6,9 +6,9 @@
 
 ## 🏈 Project Overview
 
-This project is a modern, responsive clone of the Detroit Lions official website built with React, TypeScript, and Tailwind CSS. It showcases a comprehensive fan experience with various features tailored for Lions fans. SOME OF THE FEATURES ARE NOT COMPLETED FULLY. THIS IS SUPPOSED TO SHOWCASE DESIGN AND RESPONSIVENESS IN A PRODUCTION READY BUILD.
+This project is a modern, responsive clone of the Detroit Lions official website built with React, TypeScript, and Tailwind CSS. It showcases a comprehensive fan experience with various features tailored for Lions fans.
 
-[View Live Demo](#) | [GitHub Repository](#)
+[View Live Demo](#) | [GitHub Repository](https://github.com/PkTaz/detroit-lions-website)
 
 ![Website Preview](https://static.clubs.nfl.com/image/upload/t_new_photo_album/f_auto/lions/e9uxwvx4ergpvtzaiash.jpg)
 
