@@ -29,7 +29,6 @@ This project is a modern, responsive clone of the Detroit Lions official website
 - **Team Page**: Complete roster with player profiles
 - **News Section**: Latest team news and updates
 - **Schedule Page**: Full season schedule with game details
-- **Ticket Information**: Interface for browsing and purchasing tickets
 
 ### 🛠️ Technical Features
 - Error handling with fallback images
